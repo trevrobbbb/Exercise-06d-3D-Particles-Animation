@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220
 
+A demonstration of this exercise is available at [https://youtu.be/0CytaWMH64E](https://youtu.be/0CytaWMH64E)
+
 This exercise is a chance to play with Godot's 3D Particles and 3D Sprites. We will be doing a little more animating. Also, you will have a chance to export a game as a finished product.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-06d-3D-Particles-Animation. *Edit the LICENSE and replace BL-MSCH-C220-S22 with your full name.* Commit your changes.
