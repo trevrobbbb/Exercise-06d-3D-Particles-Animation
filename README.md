@@ -129,7 +129,7 @@ Instance res://Enemy/Enemy.tscn as a child of the Game node. Translate the enemy
 
 Run the game. You should be able to shoot the targets and the enemy.
 
-When you are happy with the result, go to Project->Export. Tap Add… and then select Mac OSX. The default settings should work; export the project as project.dmg. If Godot tells you to download a template or other resources, follow those steps until you are able to export the file.
+When you are happy with the result, go to Project->Export. Tap Add… and then select Mac OSX. You will need to Add an Export Template for Godot 3.4.2. You will also need to set up an Identifier: com.c220.project should be sufficient. Otherwise, the default settings should work; export the project as project.dmg. If Godot tells you to download a template or other resources, follow those steps until you are able to export the file.
 
 If you are not using a Mac, feel free to export other project types to test. 
 
